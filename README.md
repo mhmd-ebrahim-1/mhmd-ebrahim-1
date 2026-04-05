@@ -2,9 +2,7 @@
 <h3 align="center">AI Student | Data Analyst | ML Engineer in Progress 🚀</h3>
 
 <p align="center">
-  <a href="https://github.com/mhmd-ebrahim-1">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+in+Progress;Data+Analytics+Enthusiast;IoT+%26+Robotics+Builder;Always+Learning+New+Things&center=true&width=500&height=50">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+in+Progress;Data+Analytics+Enthusiast;IoT+%26+Robotics+Builder;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
@@ -12,16 +10,16 @@
 ## 🧠 About Me  
 
 - 🎓 AI Student at **Kafr El-Sheikh University**  
-- 🤖 Passionate about **Artificial Intelligence, Data Science, and Robotics**  
+- 🤖 Passionate about **Artificial Intelligence, Data Science, IoT & Robotics**  
 - 🔍 Focused on building **real-world intelligent systems**  
-- 📊 Love turning data into **insights & decisions**  
+- 📊 Turning data into **insights & decisions**  
 - ⚡ Always learning & improving  
 
 ---
 
 ## 🚀 Tech Stack  
 
-### 👨‍💻 Programming & Data  
+### 👨‍💻 Programming & Tools  
 <p>
 <img src="https://skillicons.dev/icons?i=python,git,github,docker,vscode" />
 </p>
@@ -68,7 +66,7 @@
 
 ### 🏥 Healthcare Analytics  
 🔗 https://github.com/mohamadx1/Healthcare-Analytics  
-📊 Data analysis + dashboards for healthcare decision-making  
+📊 Data analysis & dashboards for healthcare insights  
 
 ---
 
@@ -80,7 +78,7 @@
 
 ### 🛒 FoodMart Retail Analysis  
 🔗 https://github.com/mhmd-ebrahim-1/FoodMart-Retail-Analysis  
-📈 Sales & customer insights using Power BI  
+📈 Retail analytics dashboards using Power BI  
 
 ---
 
@@ -98,7 +96,7 @@
 - 🚀 Build strong AI portfolio  
 - 📦 Deploy real-world ML systems  
 - 🌍 Work on impactful projects  
-- 💼 Land internship in AI/Data  
+- 💼 Land an AI/Data internship  
 
 ---
 
@@ -114,10 +112,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mhmd-ebrahim1/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ebrahim-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/mhmd-ebrahim-1">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GitHub-mhmd--ebrahim--1-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/mhmd_ebrahim_1">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/mhmd_ebrahim_1">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="https://www.facebook.com/share/1bqXTiWFnN/">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook" />
   </a>
 </p>
 
@@ -133,4 +140,6 @@
 
 ## ⚡ Quote  
 
-> "Building intelligent systems that make life smarter and easier." 🚀
+<p align="center">
+  <b>"Building intelligent systems that make life smarter and easier." 🚀</b>
+</p>
