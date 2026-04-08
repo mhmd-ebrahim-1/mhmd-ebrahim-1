@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=AI+%26+Data+Analyst;Building+RAG+%26+LLM+Systems;Turning+Data+into+Insights;Always+Learning+%26+Leveling+Up)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=AI+%26+Data+Analyst;Building+RAG+%26+LLM+Systems;Data-Driven+Problem+Solver;Always+Learning+%26+Leveling+Up)
 
 </div>
 
@@ -10,104 +10,54 @@
 
 ## 🧠 About Me
 
-- 🎓 AI Student at **Kafr El-Sheikh University**
-- 🤖 Focused on **Artificial Intelligence & Data Analysis**
-- 📊 Skilled in turning raw data into **actionable insights & dashboards**
-- 💬 Currently building **RAG systems & LLM-powered applications**
-- ⚡ Passionate about solving real-world problems using **data + AI**
+- 🤖 AI & Data Analyst focused on building intelligent systems  
+- 📊 Turning raw data into **insights, dashboards & decisions**  
+- 💬 Building **LLM & RAG-powered applications**  
+- ⚡ Interested in solving real-world problems using **data + AI**
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Core Skills
 
-### 👨‍💻 Core
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,docker,vscode" />
-</p>
+### 📊 Data Analysis
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Dashboard Building  
+- Business Insights Extraction  
 
----
+### 🤖 AI & Machine Learning
+- Machine Learning Models  
+- Deep Learning (CNNs, NLP)  
+- Model Evaluation & Optimization  
+- Recommendation Systems  
 
-### 🤖 AI / Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+### 🧠 LLM & AI Systems
+- RAG Pipelines  
+- Prompt Engineering  
+- LangChain  
+- Local LLMs (Ollama)  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-1D9E75?style=for-the-badge"/>
-</p>
-
----
-
-### 📊 Data Analysis & BI (Main Focus 🔥)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
+### 🛠️ Tools & Technologies
+- Python  
+- Pandas, NumPy  
+- SQL (PostgreSQL)  
+- Power BI & Tableau  
+- Scikit-learn, TensorFlow, PyTorch  
+- Git & GitHub  
 
 ---
 
-## 🧠 Featured Projects
+## 📊 What I Do
 
-### 🟢 RAG — KSUAI Academic System
-> Arabic RAG system for answering questions about academic regulations.  
-> Built using **TF-IDF + Keyword Retrieval + Local LLM (Ollama)**.
-
-🔗 https://github.com/mhmd-ebrahim-1/RAG_KSUAI
-
----
-
-### 🏥 Healthcare Analytics
-> End-to-end data analysis project (cleaning → analysis → dashboards).  
-> Built with **Python, SQL & Power BI**.
-
-🔗 https://github.com/mhmd-ebrahim-1/Healthcare-Analytics
+- Build **end-to-end data pipelines** (clean → analyze → visualize)  
+- Develop **AI models** for prediction & classification  
+- Create **interactive dashboards** for business insights  
+- Design **LLM-powered systems** for real-world use cases  
 
 ---
 
-### 🛒 FoodMart Retail Analysis
-> Business intelligence dashboard with insights on sales & performance.
-
-🔗 https://github.com/mhmd-ebrahim-1/FoodMart-Retail-Analysis
-
----
-
-### 🎬 Movie Recommendation System
-> Built from scratch using **NMF & NumPy** (no frameworks).
-
-🔗 https://github.com/mhmd-ebrahim-1/MovieRecommendation
-
----
-
-### 😮 Emotion Detection
-> Deep learning model for real-time facial emotion recognition.
-
-🔗 https://github.com/mhmd-ebrahim-1/emotion-detection-project
-
----
-
-## 🗂️ Additional Projects
-
-- Time Series Forecasting  
-- Sentiment Analysis (IMDB)  
-- Titanic ML Project  
-- Loan Prediction  
-- Traffic Sign Recognition  
-
----
-
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhmd-ebrahim-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
@@ -136,5 +86,5 @@
 ---
 
 <p align="center">
-  <b>"Turning data into decisions & building intelligent systems." 🚀</b>
+  <b>"I don't just analyze data — I turn it into impact." 🚀</b>
 </p>
