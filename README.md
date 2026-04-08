@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=AI+%26+Data+Analyst;Machine+Learning+Enthusiast;Data-Driven+Problem+Solver)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress+%F0%9F%A4%96;Building+RAG+%26+LLM+Systems;Data+Analyst+%7C+IoT+Developer;Always+Learning+%26+Leveling+Up+%E2%9A%A1)
 
 </div>
 
@@ -10,57 +10,85 @@
 
 ## 🧠 About Me
 
-- 🤖 AI & Data Analyst  
-- 📊 Turning data into insights & decisions  
-- 💬 Building Machine Learning solutions  
+- 🤖 Passionate about **AI, Data Science, IoT & Robotics**
+- 💬 Currently building **RAG pipelines & LLM-powered Arabic systems**
+- 🔌 Love combining **hardware + software** into real-world intelligent systems
+- 📊 Turning raw data into **actionable insights**
+- ⚡ Always learning & leveling up
 
 ---
 
-## 🚀 Skills
+## 🚀 Tech Stack
 
-### 📊 Data & Analytics
+### 👨‍💻 Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,docker,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-</p>
-
----
-
-### 🤖 AI & Machine Learning (Core Skills)
+### 🤖 AI / ML / LLM
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Preprocessing-1D9E75?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Feature%20Engineering-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Model%20Training-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Model%20Evaluation-F39C12?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Classification-16A085?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Regression-2980B9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_Pipeline-1D9E75?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
+
+### 📊 Data & BI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+
+### 🔌 IoT & Hardware
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/G--code-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CNC_Plotter-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stepper_Motors-333333?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 
----
-
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhmd-ebrahim-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-ebrahim-1&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-ebrahim-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmd-ebrahim-1&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎮 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -80,10 +108,21 @@
   <a href="https://x.com/mhmd_ebrahim_1">
     <img src="https://img.shields.io/badge/X-mhmd__ebrahim__1-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  <a href="https://www.facebook.com/share/1bqXTiWFnN/">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mhmd-ebrahim-1&label=Profile%20Views&color=1D9E75&style=flat-square" />
 </p>
 
 ---
 
 <p align="center">
-  <b>Data → Insight → Decision 🚀</b>
+  <b>"Building intelligent systems that bridge data, intelligence, and real-world impact." 🚀</b>
 </p>
