@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=AI+%26+Data+Analyst;Building+RAG+%26+LLM+Systems;Data-Driven+Problem+Solver;Always+Learning+%26+Leveling+Up)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=AI+%26+Data+Analyst;Building+RAG+%26+LLM+Systems;Data-Driven+Problem+Solver)
 
 </div>
 
@@ -10,50 +10,44 @@
 
 ## 🧠 About Me
 
-- 🤖 AI & Data Analyst focused on building intelligent systems  
-- 📊 Turning raw data into **insights, dashboards & decisions**  
-- 💬 Building **LLM & RAG-powered applications**  
-- ⚡ Interested in solving real-world problems using **data + AI**
+- 🤖 AI & Data Analyst  
+- 📊 Turning data into insights & decisions  
+- 💬 Building LLM & RAG systems  
 
 ---
 
-## 🚀 Core Skills
+## 🚀 Skills
 
-### 📊 Data Analysis
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-- Dashboard Building  
-- Business Insights Extraction  
+### 📊 Data & Analytics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+</p>
+
+---
 
 ### 🤖 AI & Machine Learning
-- Machine Learning Models  
-- Deep Learning (CNNs, NLP)  
-- Model Evaluation & Optimization  
-- Recommendation Systems  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-### 🧠 LLM & AI Systems
-- RAG Pipelines  
-- Prompt Engineering  
-- LangChain  
-- Local LLMs (Ollama)  
-
-### 🛠️ Tools & Technologies
-- Python  
-- Pandas, NumPy  
-- SQL (PostgreSQL)  
-- Power BI & Tableau  
-- Scikit-learn, TensorFlow, PyTorch  
-- Git & GitHub  
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-1D9E75?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 What I Do
-
-- Build **end-to-end data pipelines** (clean → analyze → visualize)  
-- Develop **AI models** for prediction & classification  
-- Create **interactive dashboards** for business insights  
-- Design **LLM-powered systems** for real-world use cases  
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
 
 ---
 
@@ -86,5 +80,5 @@
 ---
 
 <p align="center">
-  <b>"I don't just analyze data — I turn it into impact." 🚀</b>
+  <b>Data → Insight → Impact 🚀</b>
 </p>
