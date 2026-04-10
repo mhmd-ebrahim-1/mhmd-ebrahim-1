@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MOHAMED%20EBRAHIM&fontSize=70&color=gradient&customColorList=12,20,24,30&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20RAG%20Builder&descAlignY=55&descAlign=50&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MOHAMED%20EBRAHIM&fontSize=70&color=gradient&customColorList=12,20,24,30&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20ML%20Developer&descAlignY=55&descAlign=50&descSize=20"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=1D9E75&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=130&lines=%F0%9F%A4%96+Building+Intelligent+Systems+That+Actually+Work;%F0%9F%93%8A+Turning+Raw+Data+Into+Real+Decisions;%F0%9F%92%AC+RAG+Pipelines+%7C+Arabic+NLP+%7C+ML+Engineering;%F0%9F%9A%80+From+Student+to+AI+Engineer+%E2%80%94+In+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=1D9E75&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=130&lines=%F0%9F%A4%96+Building+Intelligent+Systems+That+Actually+Work;%F0%9F%93%8A+Turning+Raw+Data+Into+Real+Decisions;%F0%9F%A4%96+Machine+Learning+%7C+Data+Analysis+%7C+Computer+Vision;%F0%9F%9A%80+From+Student+to+AI+Engineer+%E2%80%94+In+Progress" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -52,7 +52,6 @@ class AIEngineer:
             "languages"   : ["Python", "SQL", "C++"],
             "ml"          : ["Scikit-learn", "TensorFlow", "Keras"],
             "data"        : ["Pandas", "NumPy", "Power BI", "Excel"],
-            "llm"         : ["LangChain", "Ollama", "RAG Pipelines"],
             "db"          : ["PostgreSQL", "MS SQL Server"],
             "tools"       : ["Git", "GitHub", "VS Code", "Jupyter"]
         }
@@ -61,9 +60,9 @@ class AIEngineer:
         return [
             "📊 Data Analysis & BI Dashboards",
             "🤖 ML Models for Real-World Problems",
-            "💬 RAG Systems with Arabic NLP",
             "🧠 Deep Learning & Computer Vision",
-            "⚡ Automating Everything Possible"
+            "⚡ Automating Everything Possible",
+            "📈 Turning Raw Data Into Actionable Insights"
         ]
 
     def philosophy(self):
@@ -113,7 +112,7 @@ print(f"👾 Welcome to {me.name}'s GitHub!")
 
 ## ⚙️ TECH STACK
 
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,sklearn,keras,opencv,mysql,git,github,vscode,jupyter,anaconda&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,sklearn,keras,opencv,mysql,git,github,vscode,jupyter&perline=6&theme=dark" />
 
 <br/><br/>
 
@@ -141,13 +140,6 @@ print(f"👾 Welcome to {me.name}'s GitHub!")
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=101010"/>
 </p>
 
-### 💬 LLM & GENERATIVE AI
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=101010"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=101010"/>
-<img src="https://img.shields.io/badge/RAG_Systems-1D9E75?style=for-the-badge&labelColor=101010"/>
-<img src="https://img.shields.io/badge/Arabic_NLP-FF6B35?style=for-the-badge&labelColor=101010"/>
-</p>
 
 ### 🛠️ TOOLS
 <p>
@@ -162,37 +154,6 @@ print(f"👾 Welcome to {me.name}'s GitHub!")
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
-
----
-
-<!-- AI Focus -->
-<div align="center">
-
-## 🧠 AI & LLM FOCUS
-
-</div>
-
-```python
-ai_specializations = {
-    "RAG Architecture"    : "████████████████████  Expert",
-    "Arabic NLP"          : "██████████████████░░  Advanced",
-    "Prompt Engineering"  : "████████████████████  Expert",
-    "Data Analysis"       : "████████████████████  Expert",
-    "ML Pipelines"        : "████████████████████  Expert",
-    "Computer Vision"     : "████████████████░░░░  Proficient",
-    "Deep Learning"       : "██████████████░░░░░░  Developing",
-}
-
-competitive_edge = [
-    "✅ Arabic tokenization & preprocessing",
-    "✅ Hybrid retrieval (TF-IDF + keyword) for Arabic corpora",
-    "✅ Local LLM deployment — no API cost, full privacy",
-    "✅ RTL-aware document chunking for RAG systems",
-    "✅ End-to-end pipelines: raw data → deployed model",
-]
-```
-
-> 💡 **Most LLM systems fail on Arabic text. I build systems that don't.**
 
 ---
 
