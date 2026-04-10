@@ -24,13 +24,14 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge"/>
 </p>
 
-`Data Cleaning` `EDA` `Data Preprocessing` `Feature Engineering`
+`Data Cleaning` `EDA` `Data Preprocessing` `Feature Engineering` `Problem Solving`
 
 ---
 
@@ -40,9 +41,10 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 </p>
 
-`Interactive Dashboards` `Data Modeling` `DAX` `KPI Reporting`
+`Interactive Dashboards` `Data Modeling` `DAX` `KPI Reporting` `Data Analysis`
 
 ---
 
@@ -51,9 +53,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-`Joins` `Aggregations` `Subqueries` `Database Design`
+`Joins` `Aggregations` `Subqueries` `Database Design` `Database Fundamentals`
 
 ---
 
@@ -63,7 +66,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-`Linear Regression` `Logistic Regression` `Classification` `Decision Trees` `Model Evaluation`
+`Linear Regression` `Logistic Regression` `Classification` `Decision Trees` `Model Evaluation` `Machine Learning Algorithms`
 
 ---
 
@@ -76,7 +79,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-`Neural Networks` `CNN` `Computer Vision`
+`Neural Networks` `CNN` `Computer Vision` `Getting Started with Deep Learning`
 
 ---
 
@@ -88,7 +91,18 @@
   <img src="https://img.shields.io/badge/RAG_Pipeline-1D9E75?style=for-the-badge"/>
 </p>
 
-`RAG Systems` `Prompt Engineering` `Arabic NLP` `TF-IDF Retrieval`
+`Generative AI` `RAG Systems` `Prompt Engineering` `Arabic NLP` `TF-IDF Retrieval` `Intro to AI & GenAI`
+
+---
+
+### 🔌 IoT & Robotics
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-FF6900?style=for-the-badge&logo=internetofthings&logoColor=white"/>
+</p>
+
+`Robotics` `Arduino` `IoT Training` `Embedded Systems`
 
 ---
 
@@ -101,6 +115,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
+`Teamwork` `Team Collaboration`
 
 ---
 
