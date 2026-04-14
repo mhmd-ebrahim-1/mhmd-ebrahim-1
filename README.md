@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=1D9E75&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=130&lines=%F0%9F%A4%96+Building+Intelligent+Systems+That+Actually+Work;%F0%9F%93%8A+Turning+Raw+Data+Into+Real+Decisions;%F0%9F%A4%96+Machine+Learning+%7C+Data+Analysis+%7C+Computer+Vision;%F0%9F%9A%80+From+Student+to+AI+Engineer+%E2%80%94+In+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=1D9E75&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=130&lines=%F0%9F%A4%96+Building+Intelligent+Systems+That+Actually+Work;%F0%9F%93%8A+Turning+Raw+Data+Into+Real+Decisions;%F0%9F%A4%96+Machine+Learning+%7C+NLP+%7C+Generative+AI;%F0%9F%9A%80+From+Student+to+AI+Engineer+%E2%80%94+In+Progress" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,6 @@
 
 ---
 
-<!-- About Section -->
 <div align="center">
 
 ## 🧠 WHO AM I?
@@ -41,7 +40,7 @@
 class AIEngineer:
     def __init__(self):
         self.name        = "Mohamed Ebrahim Hamed"
-        self.role        = "AI Engineer | Data Analyst"
+        self.role        = "AI Engineer | Data Analyst | ML Developer"
         self.location    = "🇪🇬 Mansoura, Egypt"
         self.university  = "Kafr El-Sheikh University"
         self.year        = "3rd Year AI Student (2023–2027)"
@@ -49,26 +48,28 @@ class AIEngineer:
     @property
     def stack(self):
         return {
-            "languages"   : ["Python", "SQL", "C++"],
-            "ml"          : ["Scikit-learn", "TensorFlow", "Keras"],
-            "data"        : ["Pandas", "NumPy", "Power BI", "Excel"],
-            "db"          : ["PostgreSQL", "MS SQL Server"],
-            "tools"       : ["Git", "GitHub", "VS Code", "Jupyter"]
+            "languages"   : ["Python", "SQL", "C++", "Kotlin"],
+            "ml_dl"       : ["TensorFlow", "Keras", "PyTorch", "Scikit-learn"],
+            "nlp_genai"   : ["NLP", "LLMs", "RAG", "Prompt Engineering", "Ollama"],
+            "cv"          : ["OpenCV", "CNNs", "Computer Vision"],
+            "data"        : ["Pandas", "NumPy", "Power BI", "DAX", "Excel"],
+            "db"          : ["MS SQL Server", "SQL Querying"],
+            "tools"       : ["Git", "GitHub", "VS Code", "Jupyter", "Flask", "Google Colab"],
+            "hardware"    : ["Arduino", "Embedded Systems", "IoT", "Robotics"]
         }
 
     def current_focus(self):
         return [
+            "🤖 NLP, Generative AI & RAG Systems",
             "📊 Data Analysis & BI Dashboards",
-            "🤖 ML Models for Real-World Problems",
             "🧠 Deep Learning & Computer Vision",
-            "⚡ Automating Everything Possible",
+            "⚡ Building End-to-End ML Pipelines",
             "📈 Turning Raw Data Into Actionable Insights"
         ]
 
     def philosophy(self):
         return "Data is the language. AI is the voice. Impact is the goal."
 
-# Let's build something.
 me = AIEngineer()
 print(f"👾 Welcome to {me.name}'s GitHub!")
 ```
@@ -83,19 +84,25 @@ print(f"👾 Welcome to {me.name}'s GitHub!")
 ### 🎓 EDUCATION
 **BSc in Artificial Intelligence**
 📍 Kafr El-Sheikh University
-📅 Sep 2023 – Jul 2027
+📅 Sep 2023 – Jun 2027
 
 ### 💼 EXPERIENCE
+**Generative AI & LLM Trainee** @ ITI × NVIDIA DLI
+🏢 Information Technology Institute — 35 Hours
+📅 2025
+
 **Data Analysis Intern** @ NTI
 🏢 National Telecommunication Institute
-📅 Practical · Data Analysis Track
+📅 Jun 2025 – Aug 2025
 
 ### 🌟 QUICK STATS
-- 🤖 **3+** Real AI Projects Shipped
-- 🏅 **5+** Professional Certifications
+- 🤖 **8+** End-to-End AI & Data Projects
+- 🏅 **10+** Professional Certifications
 - 🏢 Interned @ **NTI** (National Level)
+- 🎓 Trained @ **ITI × NVIDIA DLI**
 - 🤝 Member @ **Mansoura Robotics Club**
-- 📊 Trained @ **Microsoft Student Club**
+- 📊 Member @ **Microsoft Student Club**
+- 🔬 Member @ **IEEE KFS Student Branch**
 
 </td>
 </tr>
@@ -107,12 +114,11 @@ print(f"👾 Welcome to {me.name}'s GitHub!")
 
 ---
 
-<!-- Tech Stack -->
 <div align="center">
 
 ## ⚙️ TECH STACK
 
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,sklearn,keras,opencv,mysql,git,github,vscode,jupyter&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,keras,opencv,flask,mysql,git,github,vscode,jupyter,kotlin,arduino&perline=8&theme=dark" />
 
 <br/><br/>
 
@@ -121,6 +127,27 @@ print(f"👾 Welcome to {me.name}'s GitHub!")
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010"/>
+</p>
+
+### 🤖 AI / ML / DEEP LEARNING
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/XGBoost-189A6B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
+</p>
+
+### 🧠 NLP / GENERATIVE AI / RAG
+<p>
+<img src="https://img.shields.io/badge/NLP-1D9E75?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/LLMs-7F52FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0077B5?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
 </p>
 
 ### 📊 DATA ANALYSIS & BI
@@ -129,24 +156,27 @@ print(f"👾 Welcome to {me.name}'s GitHub!")
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=101010"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010"/>
 </p>
 
-### 🤖 ML & DEEP LEARNING
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=101010"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=101010"/>
-</p>
-
-
-### 🛠️ TOOLS
+### 🛠️ TOOLS & PLATFORMS
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=101010"/>
+</p>
+
+### 🔧 HARDWARE & IOT
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-555555?style=for-the-badge&logo=c&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/IoT-0077B5?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=101010"/>
+<img src="https://img.shields.io/badge/Robotics-1D9E75?style=for-the-badge&logo=probot&logoColor=white&labelColor=101010"/>
 </p>
 
 </div>
@@ -157,7 +187,6 @@ print(f"👾 Welcome to {me.name}'s GitHub!")
 
 ---
 
-<!-- Featured Projects -->
 <div align="center">
 
 ## 🚀 FEATURED PROJECTS
@@ -172,44 +201,68 @@ print(f"👾 Welcome to {me.name}'s GitHub!")
 > *Making university regulations instantly searchable*
 
 - 🎯 **Problem:** Dense Arabic docs with no fast search
-- ⚙️ **Built:** Hybrid TF-IDF + keyword RAG pipeline over structured JSON, powered by local Ollama LLM
-- 🛠️ `Python` `LangChain` `Ollama` `Arabic NLP`
+- ⚙️ **Built:** Hybrid TF-IDF + keyword RAG pipeline over structured JSON, powered by local Ollama/Qwen LLM
+- 🛠️ `Python` `Flask` `Ollama` `TF-IDF` `Arabic NLP` `Vector Search`
 - 📈 **Impact:** Minutes → Seconds. Zero API cost. Fully offline.
 
 </td>
 <td width="50%" valign="top">
 
-### 🍊 Fruit Classification Conveyor System
-> *CV model meets real hardware automation*
+### 🚦 Traffic Sign Recognition (CNN)
+> *96% accuracy across 43 categories*
 
-- 🎯 **Problem:** Manual fruit sorting is slow and inconsistent
-- ⚙️ **Built:** CNN model + Arduino UNO + servo gates + Python inference pipeline
-- 🛠️ `TensorFlow` `OpenCV` `Arduino` `Python`
-- 📈 **Impact:** Real-time automated sorting with swappable models
+- 🎯 **Problem:** Real-time multi-class sign classification
+- ⚙️ **Built:** CNN on GTSRB dataset (50,000+ images) with full preprocessing pipeline and data augmentation
+- 🛠️ `TensorFlow` `Keras` `OpenCV` `NumPy`
+- 📈 **Impact:** ~96% test accuracy, robust to lighting and scale variation
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔄 UniSync — Portal Automation
-> *Automating the tedious parts of student life*
+### 🏥 Healthcare Analytics Dashboard
+> *Turning patient data into business decisions*
 
-- 🎯 **Problem:** Daily manual download of lecture files
-- ⚙️ **Built:** Python scraper → Google Drive sync → desktop notifications → daily Task Scheduler
-- 🛠️ `Python` `BeautifulSoup` `Google Drive API`
-- 📈 **Impact:** 100% automated. Zero manual effort daily.
+- 🎯 **Problem:** Raw unstructured healthcare operational data
+- ⚙️ **Built:** Python + SQL analysis pipeline over 10,000+ records → 3 interactive Power BI dashboards
+- 🛠️ `Python` `SQL` `Power BI` `DAX` `Pandas`
+- 📈 **Impact:** KPI dashboards used for revenue & attendance tracking
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 NTI Data Analysis Projects
-> *Real-world analysis at a national institution*
+### 💰 Loan Approval Prediction
+> *F1-score of 0.97 on imbalanced financial data*
 
-- 🎯 **Problem:** Raw unstructured telecom datasets
-- ⚙️ **Built:** Full EDA pipelines + Power BI KPI dashboards for stakeholder reporting
-- 🛠️ `Pandas` `NumPy` `Power BI` `SQL` `Excel`
-- 📈 **Impact:** Dashboards used for internal business decisions
+- 🎯 **Problem:** Imbalanced loan dataset with high-cost false negatives
+- ⚙️ **Built:** ML pipeline comparing Logistic Regression vs Decision Tree with full preprocessing
+- 🛠️ `Python` `Scikit-learn` `Pandas` `Matplotlib`
+- 📈 **Impact:** F1-score ~0.97 with high minority-class recall
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Time Series Sales Forecasting
+> *15+ engineered features, XGBoost regressor*
+
+- 🎯 **Problem:** Accurate sales forecasting without data leakage
+- ⚙️ **Built:** 15+ temporal & lag features with time-aware cross-validation + XGBoost regressor
+- 🛠️ `Python` `XGBoost` `Pandas` `NumPy`
+- 📈 **Impact:** Outperformed baseline moving-average model
+
+</td>
+<td width="50%" valign="top">
+
+### 🖨️ CNC Plotter (Arduino)
+> *Hardware meets software — sub-mm precision*
+
+- 🎯 **Problem:** Build an automated 2D drawing machine from scratch
+- ⚙️ **Built:** Led 4-member team; stepper motors + G-code firmware in C++ + full hardware integration
+- 🛠️ `Arduino` `C++` `Embedded Systems` `G-code`
+- 📈 **Impact:** Sub-millimeter drawing precision achieved
 
 </td>
 </tr>
@@ -221,7 +274,6 @@ print(f"👾 Welcome to {me.name}'s GitHub!")
 
 ---
 
-<!-- GitHub Stats -->
 <div align="center">
 
 ## 📊 GITHUB ANALYTICS
@@ -243,7 +295,6 @@ print(f"👾 Welcome to {me.name}'s GitHub!")
 
 ---
 
-<!-- Goals Section -->
 <div align="center">
 
 ## 🎯 CURRENT GOALS
@@ -256,7 +307,8 @@ goals_2025 = {
     "💼 Career"      : "Land a data/AI role before graduation",
     "🔬 Research"    : "Publish an Arabic NLP open-source project",
     "🛠️ Projects"   : "Build 3+ production-ready AI systems",
-    "📚 Learning"    : "Master MLOps & advanced RAG architectures",
+    "📚 Learning"    : "Master MLOps, LangChain & advanced RAG architectures",
+    "🏆 Competitions": "Participate in Kaggle & regional AI competitions",
 }
 
 for goal, target in goals_2025.items():
@@ -265,7 +317,27 @@ for goal, target in goals_2025.items():
 
 ---
 
-<!-- Contact -->
+<div align="center">
+
+## 🏅 CERTIFICATIONS HIGHLIGHTS
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| HCIA-AI V3.5 | Huawei | 2024 |
+| Generative AI & LLM Program (35hrs) | ITI × NVIDIA DLI | 2025 |
+| Getting Started with Deep Learning | NVIDIA DLI | 2025 |
+| Advanced Data Analytics | NTI | 2025 |
+| Data Analytics Job Simulation | Forage (Quantium) | 2025 |
+| Introduction to AI & Generative AI | Microsoft / MCIT | 2024 |
+| Introduction to Deep Learning | ITI | 2024 |
+| Python (Basic) | HackerRank | 2024 |
+| SQL (Basic) | HackerRank | 2025 |
+| Intro to Machine Learning | Kaggle | 2024 |
+
+</div>
+
+---
+
 <div align="center">
 
 ## 🤝 LET'S CONNECT
@@ -311,7 +383,6 @@ for goal, target in goals_2025.items():
 
 ---
 
-<!-- Closing -->
 <div align="center">
 
 <br/>
