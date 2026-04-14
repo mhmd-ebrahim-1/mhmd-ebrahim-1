@@ -40,10 +40,10 @@
 class AIEngineer:
     def __init__(self):
         self.name        = "Mohamed Ebrahim Hamed"
-        self.role        = "AI Engineer | Data Analyst | ML Developer"
+        self.role        = "AI Engineer | Data Analyst "
         self.location    = "🇪🇬 Mansoura, Egypt"
         self.university  = "Kafr El-Sheikh University"
-        self.year        = "3rd Year AI Student (2023–2027)"
+        self.year        = "3rd Year AI Studen"
 
     @property
     def stack(self):
@@ -55,7 +55,7 @@ class AIEngineer:
             "data"        : ["Pandas", "NumPy", "Power BI", "DAX", "Excel"],
             "db"          : ["MS SQL Server", "SQL Querying"],
             "tools"       : ["Git", "GitHub", "VS Code", "Jupyter", "Flask", "Google Colab"],
-            "hardware"    : ["Arduino", "Embedded Systems", "IoT", "Robotics"]
+            "hardware"    : ["Arduino", "IoT", "Robotics"]
         }
 
     def current_focus(self):
@@ -84,16 +84,15 @@ print(f"👾 Welcome to {me.name}'s GitHub!")
 ### 🎓 EDUCATION
 **BSc in Artificial Intelligence**
 📍 Kafr El-Sheikh University
-📅 Sep 2023 – Jun 2027
+
 
 ### 💼 EXPERIENCE
 **Generative AI & LLM Trainee** @ ITI × NVIDIA DLI
-🏢 Information Technology Institute — 35 Hours
-📅 2025
+🏢 Information Technology Institute 
 
 **Data Analysis Intern** @ NTI
 🏢 National Telecommunication Institute
-📅 Jun 2025 – Aug 2025
+
 
 ### 🌟 QUICK STATS
 - 🤖 **8+** End-to-End AI & Data Projects
