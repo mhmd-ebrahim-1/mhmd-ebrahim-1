@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmd-ebrahim1/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmd-ebrahim-1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedebrahim1177@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mhmd_ebrahim_1@outlook.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1bqXTiWFnN/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhmd_ebrahim_1)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mhmd_ebrahim_1)
@@ -39,10 +39,10 @@
 class AIEngineer:
     def __init__(self):
         self.name       = "Mohamed Ebrahim Hamed"
-        self.role       = "AI Engineer | Data Analyst"
-        self.location   = "🇪🇬 Mansoura, Egypt"
+        self.role       = "Data Analyst | ML Engineer"
+        self.location   = "🇪🇬 Cairo, Egypt"
         self.university = "Kafr El-Sheikh University"
-        self.year       = "4rd Year AI Student"
+        self.year       = "4th Year AI Student"
         self.email      = "mhmd_ebrahim_1@outlook.com"
         self.phone      = "+20 109 355 6456"
 
@@ -51,7 +51,7 @@ class AIEngineer:
             "🤖 NLP, Generative AI & RAG Systems",
             "📊 Data Analysis & BI Dashboards",
             "🧠 Deep Learning & Computer Vision",
-            "⚡ End-to-End ML Pipelines",
+            "⚡ End-to-End ML & Big Data Pipelines",
             "📈 Data → Actionable Insights"
         ]
 
@@ -105,7 +105,6 @@ me = AIEngineer()
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🤖 AI · ML · Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -131,6 +130,13 @@ me = AIEngineer()
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+### 🗄️ Big Data & Orchestration
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -146,7 +152,7 @@ me = AIEngineer()
 ![Robotics](https://img.shields.io/badge/Robotics-1D9E75?style=for-the-badge)
 
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,keras,opencv,flask,mysql,git,github,vscode,jupyter,kotlin,arduino&perline=8&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,keras,opencv,flask,mysql,git,github,vscode,jupyter,docker,arduino&perline=8&theme=dark"/>
 
 </div>
 
@@ -160,15 +166,28 @@ me = AIEngineer()
 <tr>
 <td width="50%" valign="top">
 
+### 📈 Financial Market Pipeline
+> *End-to-end Big Data market analytics pipeline*
+
+- 🎯 **Problem:** Fragmented market data with no unified pipeline
+- ⚙️ **Built:** Dockerized ETL — Yahoo Finance API → HDFS → PySpark → Snowflake Star Schema, orchestrated with fault-tolerant Airflow DAGs
+- 🛠️ `Python` `Docker` `Hadoop` `Spark` `Airflow` `Snowflake` `Power BI`
+- 📈 **Result:** Automated ingestion-to-dashboard pipeline with trend & cross-asset analysis
+
+</td>
+<td width="50%" valign="top">
+
 ### 💬 Arabic Academic RAG System
 > *Making university regulations instantly searchable*
 
 - 🎯 **Problem:** Dense Arabic docs with no fast search
-- ⚙️ **Built:** Hybrid TF-IDF + keyword RAG pipeline over structured JSON, powered by local Ollama/Qwen LLM
+- ⚙️ **Built:** Hybrid TF-IDF + keyword RAG pipeline over structured JSON, powered by local Ollama/Qwen2.5 LLM
 - 🛠️ `Python` `Flask` `Ollama` `TF-IDF` `Arabic NLP`
 - 📈 **Result:** Minutes → Seconds. Zero API cost. Fully offline.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🚦 Traffic Sign Recognition (CNN)
@@ -180,8 +199,6 @@ me = AIEngineer()
 - 📈 **Result:** ~96% test accuracy, robust to lighting & scale
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏥 Healthcare Analytics Dashboard
@@ -193,6 +210,8 @@ me = AIEngineer()
 - 📈 **Result:** KPI dashboards for revenue & attendance tracking
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💰 Loan Approval Prediction
@@ -204,8 +223,6 @@ me = AIEngineer()
 - 📈 **Result:** F1-score ~0.97 with high minority-class recall
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📈 Time Series Sales Forecasting
@@ -217,6 +234,8 @@ me = AIEngineer()
 - 📈 **Result:** Outperformed baseline moving-average model
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🖨️ CNC Plotter (Arduino)
@@ -226,6 +245,9 @@ me = AIEngineer()
 - ⚙️ **Built:** Led 4-member team; stepper motors + G-code firmware in C++
 - 🛠️ `Arduino` `C++` `Embedded Systems` `G-code`
 - 📈 **Result:** Sub-millimeter drawing precision achieved
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -256,19 +278,19 @@ me = AIEngineer()
 
 ---
 
-## 🎯 Goals 2025
+## 🎯 Goals 2026
 
 ```python
-goals_2025 = {
-    "🎓 Education"    : "Excel in AI program & graduate strong",
+goals_2026 = {
+    "🎓 Education"    : "Finish final year strong & graduate",
     "💼 Career"       : "Land a data/AI role before graduation",
     "🔬 Research"     : "Publish an Arabic NLP open-source project",
-    "🛠️  Projects"    : "Build 3+ production-ready AI systems",
+    "🛠️  Projects"    : "Kick off graduation project & keep expanding portfolio",
     "📚 Learning"     : "Master MLOps, LangChain & advanced RAG",
     "🏆 Competitions" : "Participate in Kaggle & regional AI competitions",
 }
 
-for goal, target in goals_2025.items():
+for goal, target in goals_2026.items():
     print(f"{goal}  →  {target}")
 ```
 
@@ -305,7 +327,7 @@ for goal, target in goals_2025.items():
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Ebrahim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmd-ebrahim1/)
 [![GitHub](https://img.shields.io/badge/GitHub-mhmd--ebrahim--1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmd-ebrahim-1)
-[![Gmail](https://img.shields.io/badge/Gmail-mohammedebrahim1177-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedebrahim1177@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-mhmd__ebrahim__1-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mhmd_ebrahim_1@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-mhmd__ebrahim__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhmd_ebrahim_1)
 [![X](https://img.shields.io/badge/X-mhmd__ebrahim__1-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mhmd_ebrahim_1)
 
@@ -316,7 +338,7 @@ for goal, target in goals_2025.items():
 <td align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="36"/>
 <br/><strong>Email</strong><br/>
-<code>mohammedebrahim1177@gmail.com</code>
+<code>mhmd_ebrahim_1@outlook.com</code>
 </td>
 <td align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/3059/3059502.png" width="36"/>
@@ -326,7 +348,7 @@ for goal, target in goals_2025.items():
 <td align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="36"/>
 <br/><strong>Location</strong><br/>
-<code>Mansoura, Egypt 🇪🇬</code>
+<code>Cairo, Egypt 🇪🇬</code>
 </td>
 </tr>
 </table>
