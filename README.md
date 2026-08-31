@@ -42,8 +42,8 @@ class AIEngineer:
         self.role       = "AI Engineer | Data Analyst"
         self.location   = "🇪🇬 Mansoura, Egypt"
         self.university = "Kafr El-Sheikh University"
-        self.year       = "3rd Year AI Student"
-        self.email      = "mohammedebrahim1177@gmail.com"
+        self.year       = "4rd Year AI Student"
+        self.email      = "mhmd_ebrahim_1@outlook.com"
         self.phone      = "+20 109 355 6456"
 
     def current_focus(self):
@@ -72,10 +72,10 @@ me = AIEngineer()
 |---|---|
 | 🎓 | BSc Artificial Intelligence |
 | 🏛️ | Kafr El-Sheikh University |
-| 🏢 | Trained @ **ITI × NVIDIA DLI** |
-| 🏢 | Interned @ **NTI** |
-| 🤖 | **8+** AI & Data Projects |
-| 🏅 | **10+** Certifications |
+| 🏢 | Intern @ **ITI × NVIDIA DLI** |
+| 🏢 | Intern @ **NTI** |
+| 🤖 | **10+** AI & Data Projects |
+| 🏅 | **15+** Certifications |
 
 </td>
 </tr>
